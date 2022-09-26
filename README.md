@@ -1,5 +1,4 @@
-# 66Days
-Documentation of #66DaysofData
+#66Days
 
-Day 1 of #66DaysofData 
+Day 1 | #66daysofdata 
 
